@@ -1,5 +1,14 @@
+![logo](https://github.com/Sawej786/Sawej786/blob/main/header_gif.gif)
+
 <h1 align="center">Hi 👋, I'm sawej</h1>
 <h3 align="center">A passionate data analyst from India</h3>
+
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/Sawej786/Sawej786/blob/main/programmer.gif">
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawej786&label=Profile%20views&color=0e75b6&style=flat" alt="sawej786" /> </p>
 
